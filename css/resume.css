@@ -1,0 +1,20 @@
+* {
+	background-color: rgba(0, 0, 0, 0.035);
+	margin: 1em;
+}
+
+.header{
+	display: inline;
+}
+
+#navbar {
+	
+}
+#navbar > ul{
+	list-style-type: none;
+	margin: 1em;
+}
+#navbar li{
+	float: right;
+	display: block;
+}
